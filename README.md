@@ -10,8 +10,8 @@ Portfólio com diversos códigos em JAVA realizados a partir das aulas de LP2.
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes aulas:
 
-- [x] 23/08/2022 (Threads) 
-- [] 30/08/2022 
-- [] 06/09/2022 
-- [] 13/09/2022 
-- [] 20/09/2022 
+- [x] Aula 3 - Introdução a aplicação WEB; 
+- [x] Aula 4 - Introdução ao desenvolvimento de JSPs;
+- [x] Aula 5 - CRUD MVC;
+- [x] Aula 6 - DAO e JDBC; 
+- [x] Aula 7 - CRUD com JPA.
