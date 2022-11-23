@@ -15,3 +15,5 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x] Aula 5 - CRUD MVC;
 - [x] Aula 6 - DAO e JDBC; 
 - [x] Aula 7 - CRUD com JPA.
+
+[Notion com conteúdo das aulas](https://icy-troodon-04e.notion.site/LP2-17964e72d9554d55b4401dc331649b76)
